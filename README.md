@@ -1,11 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mounesh Pattar</h1>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mounesh Pattar
+=======================================================================================================================================
 
-- 💬 Ask me about **I didn’t break the code… I just created unexpected features.🤦‍♂️✨**
+Web Developer
+-------------
 
-- 📫 How to reach me **mouneshspattar0@gmail.com**
+🚀 Web Developer
 
-- ⚡ Fun fact **Humans are the only animals that pay to live on Earth. 🌍💰**
+\- 🌎 I love building modern web applications
+
+\- 🧠 Always learning and exploring new tech
+
+\- 💻 Turning ideas into solutions through code
+
+\- 🚀 Open to collaborations and freelance projects
+
+Web Developer by day, debugger by night. I turn ✨ caffeine + code ✨ into websites.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://https://mouneshmp.vercel.app/)
+* ✉️  You can contact me at [mouneshspattar0@gmail.com](mailto:mouneshspattar0@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
